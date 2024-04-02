@@ -1,0 +1,8 @@
+.offer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: -90px 0px;
+    margin-bottom: 80px;
+    gap: 50px
+}
