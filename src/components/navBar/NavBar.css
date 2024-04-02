@@ -1,0 +1,36 @@
+.headerLine{
+    background: rgba(42, 167, 255, 1);
+    color: white;
+    text-align: center;
+    height: 40px;
+}
+
+.headerLine p {
+    padding: 7px 0px;
+}
+
+.navBar{
+    background: linear-gradient(81deg, #E7F0FF 9.01%, rgba(232, 241, 255, 0.47) 89.11%);
+    height: 96px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 40px;
+}
+
+.list-item ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 40px
+}
+
+.booking-btn{
+    background: rgba(42, 168, 255, 1);
+    width: 130px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid rgba(42, 168, 255, 1);
+}
+
