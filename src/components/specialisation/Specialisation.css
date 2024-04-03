@@ -24,7 +24,7 @@
     align-items: center;
 }
 
-.cards{
+.cards-special{
     background-color: white;
     width: 270px;
     height: 180px;
@@ -36,7 +36,7 @@
     align-items: center;
     border-radius: 8px;
 }
-.cards p{
+.cards-special p{
     color:rgba(171, 182, 199, 1);
     margin: 10px;
 }

@@ -17,7 +17,7 @@
     display: flex;
     flex-wrap: wrap; /* Allow cards to wrap to new row if needed */
     max-width: 1200px; 
-    margin: 200px 40px;
+    margin: 0px 150px;
 }
 
 .cards p {
@@ -43,6 +43,7 @@
 
 .doc-img img {
     max-width: none;
+    width: 380px;
 }
 
 

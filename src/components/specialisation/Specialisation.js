@@ -15,16 +15,16 @@ const Specialisation = ()=>{
             <p className='Heading'>Find by specialisation</p>
             <div className='spec-items'>
                 <div className="line1">
-                    <div className="cards"><div><img src={Dentistry} alt="Dentistry" /></div><div><p>Dentistry</p></div></div>
-                    <div className="cards"><div><img src={Stethoscope} alt="Stethoscope" /></div><div><p>Primary Care</p></div></div>
-                    <div className="cards"><div><img src={Cardiology} alt="Cardiology" /></div><div><p>Cardiology</p></div></div>
-                    <div className="cards"><div><img src={MRI} alt="MRI" /></div><div><p>MRI Resonance</p></div></div>
+                    <div className="cards-special"><div><img src={Dentistry} alt="Dentistry" /></div><div><p>Dentistry</p></div></div>
+                    <div className="cards-special"><div><img src={Stethoscope} alt="Stethoscope" /></div><div><p>Primary Care</p></div></div>
+                    <div className="cards-special"><div><img src={Cardiology} alt="Cardiology" /></div><div><p>Cardiology</p></div></div>
+                    <div className="cards-special"><div><img src={MRI} alt="MRI" /></div><div><p>MRI Resonance</p></div></div>
                 </div>
                 <div className="line2">
-                    <div className="cards"><div><img src={Blood} alt="Blood" /></div><div><p>Blood Test</p></div></div>
-                    <div className="cards"><div><img src={Piscologist} alt="Piscologist" /></div><div><p>Piscologist</p></div></div>
-                    <div className="cards"><div><img src={Laboratory} alt="Laboratory" /></div><div><p>Laboratory</p></div></div>
-                    <div className="cards"><div><img src={XRay} alt="XRay" /></div><div><p>X-Ray</p></div></div>
+                    <div className="cards-special"><div><img src={Blood} alt="Blood" /></div><div><p>Blood Test</p></div></div>
+                    <div className="cards-special"><div><img src={Piscologist} alt="Piscologist" /></div><div><p>Piscologist</p></div></div>
+                    <div className="cards-special"><div><img src={Laboratory} alt="Laboratory" /></div><div><p>Laboratory</p></div></div>
+                    <div className="cards-special"><div><img src={XRay} alt="XRay" /></div><div><p>X-Ray</p></div></div>
                 </div>
             </div>
             <div className='btn'>
