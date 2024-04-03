@@ -26,8 +26,7 @@
 }
 
 .card-items {
-    margin: 0 10px; /* Adjust margin between cards as needed */
-    /* Additional styling for individual card items */
+    margin: 0 10px; 
 }
 
 .doc-name {
@@ -38,7 +37,7 @@
 .designation {
     font-weight: 500;
     font-size: 17px;
-    color: rgba(42, 167, 255, 1) !important; /* Ensure the color is applied */
+    color: rgba(42, 167, 255, 1) !important; 
 }
 
 .doc-img img {

@@ -1,0 +1,45 @@
+.PC-container{
+    background: linear-gradient(81deg, #E7F0FF 9.01%, rgba(232, 241, 255, 0.47) 89.11%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    margin-top: 50px;
+    gap: 100px;
+}
+
+.head{
+    font-weight: 600;
+    font-size: 16px;
+    color: rgba(42, 167, 255, 1);
+
+}
+
+.head2{
+    font-weight: 600;
+    font-size: 48px;
+    color:rgba(27, 60, 116, 1);
+
+}
+
+.head2 span{
+    color: rgba(42, 167, 255, 1);
+    ;
+}
+
+.para{
+    color:rgba(119, 130, 157, 1);
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.statements{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0px;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgba(27, 60, 116, 1);
+    
+}
