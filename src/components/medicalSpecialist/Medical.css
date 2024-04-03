@@ -1,0 +1,49 @@
+/* Medical.css */
+
+.medical-container {
+    /* Center-align content vertically */
+    height: 100vh; /* Adjust height as needed */
+}
+
+.heading-medical {
+    font-weight: 600;
+    font-size: 48px;
+    text-align: center;
+    color: rgba(27, 60, 116, 1);
+    padding: 50px 0px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to new row if needed */
+    max-width: 1200px; 
+    margin: 200px 40px;
+}
+
+.cards p {
+    text-align: center;
+    color: black;
+}
+
+.card-items {
+    margin: 0 10px; /* Adjust margin between cards as needed */
+    /* Additional styling for individual card items */
+}
+
+.doc-name {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.designation {
+    font-weight: 500;
+    font-size: 17px;
+    color: rgba(42, 167, 255, 1) !important; /* Ensure the color is applied */
+}
+
+.doc-img img {
+    max-width: none;
+}
+
+
+
